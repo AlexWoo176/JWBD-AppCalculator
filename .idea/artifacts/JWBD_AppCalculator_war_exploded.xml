@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JWBD-AppCalculator:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JWBD_AppCalculator_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JWBD-AppCalculator/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JWBD-AppCalculator" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
